@@ -1,6 +1,6 @@
 ### Olá, eu sou o Leandro Soares 👋
 
-- 🔭 Atualmente trabalho como Analista de Banco de Dados executando processos de ETL (migração de dados)
+- 🔭 Atualmente faço estágio na empresa Novo Nordisk Industria Farmacéutica
 - 🌱 Eu estou estudando Javascript...
 - 💬 Faço faculdade de Engenharia de Sistemas na Universidade Estadual de Montes Claros - Unimontes e sou formado no Técnico em Informática pelo Instituto Federal do Norte de Minas Gerais - IFNMG. Já trabalhei com manutenção de computadores, com estrutura de redes e com analista de suporte de sistemas. Hoje porém, descobri minha paixão com programação e busco aprender ao máximo para me inserir no mercado. Comecei minha busca pelas linguagens C que eu tive meu primeiro contato ainda no curso técnico e C#. Hoje estudo Javascript, mas já fiz curso básico de Python, além de me aperfeiçoar em Banco de dados, área em que eu estou inserido atualmente. Busco me inserir na programação web pelo Javascript.
 - 😄 Pronouns: ele/dele
