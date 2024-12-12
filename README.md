@@ -4,8 +4,11 @@
 - 🌱 I'm studying Javascript...
 - 💬 I'm studying Systems Engineering at the State University of Montes Claros - Unimontes and I have a degree in Computer Science from the Federal Institute of Northern Minas Gerais - IFNMG and a degree in Data Science from the Universidade Cruzeiro do Sul. I've worked with computer maintenance, network structure and as a systems support analyst. Today, however, I discovered my passion for programming and I'm looking to learn as much as possible to enter the market. I started my search for the C languages, which I first came into contact with while still in the technical course, and C#. Today I study Javascript, but I've already taken a basic Python course, in addition to improving my skills in Databases, the area in which I'm currently working. I'm looking to enter web programming through Javascript with an emphasis on React.
 - 😄 Pronouns: he/him
-  
-![image](https://github.com/user-attachments/assets/26056ac5-9fb6-4ff6-bb42-d5e0ba785105)
+
+<div>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://github.com/user-attachments/assets/26056ac5-9fb6-4ff6-bb42-d5e0ba785105">
+</div>
+
 
 
 
