@@ -8,13 +8,7 @@
 <div>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://github.com/user-attachments/assets/26056ac5-9fb6-4ff6-bb42-d5e0ba785105">
 </div>
-<p align="start" dir="auto">
-            ⭐ Cientista de Dados pela Universidade Cruzeiro do Sul <br>
-            🧑‍🎓 Cursando Engenharia de Sistemas pela Universidade Estadual de Montes Claros - UNIMONTES <br>
-            📚 Formado em ensino técnico de Informática pelo Instituto Federal do Norte de Minas Gerais - IFNMG <br>
-            🚀 Desenvolvedor Salesforce por 2 anos <br>
-            💡 Atualmente analista de automação pleno na Novo Nordisk, atuando na área de implementação de projetos que impactam a vida de milhões de pessoas <br>
-        </p>
+
 <br>
 ### Olá, eu sou o Leandro Soares 👋
 
