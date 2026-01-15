@@ -1,8 +1,11 @@
-### Hi, I'm Leandro Soares 👋
+### Hi, I'm Leandro Soares 👋 <br>
 
-- 🔭 I currently work with automation at Novo Nordisk Pharmaceutical Industry
-- 🌱 I'm studying Javascript...
-- 💬 I'm studying Systems Engineering at the State University of Montes Claros - Unimontes and I have a degree in Computer Science from the Federal Institute of Northern Minas Gerais - IFNMG and a degree in Data Science from the Universidade Cruzeiro do Sul. I've worked with computer maintenance, network structure and as a systems support analyst. Today, however, I discovered my passion for programming and I'm looking to learn as much as possible to enter the market. I started my search for the C languages, which I first came into contact with while still in the technical course, and C#. Today I study Javascript, but I've already taken a basic Python course, in addition to improving my skills in Databases, the area in which I've worked a lot. I'm looking to enter web programming through Javascript with an emphasis on React.
+🔭 I am studying JavaScript for course IBM JavaScript Backend Developer <br>
+⭐ I am Data Scientist at University Cruzeiro do Sul <br>
+🧑‍🎓 I am studying Systems Engineering at University State of Montes Claros - UNIMONTES <br>
+📚 I have a technical degree computing at Federal Institute of Northern Minas Gerais - IFNMG <br>
+🚀 Developer Backend for 1 year <br>
+💡 Current I am mid level automation analyst at Novo Nordisk, working on the implementation of the projects that has impacted the lives of thousands of people. <br>
 - 😄 Pronouns: he/him
 
 <div>
@@ -10,13 +13,13 @@
 </div>
 
 <br>
-### Olá, eu sou o Leandro Soares 👋
+### Olá, eu sou o Leandro Soares 👋 <br>
 
-🔭 Estudando JavaScript pel curso IBM JavaScript Backend Developer <br>
+🔭 Estudando JavaScript pelo curso IBM JavaScript Backend Developer <br>
 ⭐ Cientista de Dados pela Universidade Cruzeiro do Sul <br>
 🧑‍🎓 Cursando Engenharia de Sistemas pela Universidade Estadual de Montes Claros - UNIMONTES <br>
 📚 Formado em ensino técnico de Informática pelo Instituto Federal do Norte de Minas Gerais - IFNMG <br>
-🚀 Desenvolvedor Salesforce por 2 anos <br>
+🚀 Desenvolvedor Backend por 1 ano <br>
 💡 Atualmente analista de automação pleno na Novo Nordisk, atuando na área de implementação de projetos que impactam a vida de milhões de pessoas <br>
 
 <div>
