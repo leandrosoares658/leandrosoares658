@@ -6,7 +6,7 @@
 📚 I have a technical degree computing at Federal Institute of Northern Minas Gerais - IFNMG <br>
 🚀 Developer Backend for 1 year <br>
 💡 Current I am mid level automation analyst at Novo Nordisk, working on the implementation of the projects that has impacted the lives of thousands of people. <br>
-- 😄 Pronouns: he/him
+
 
 <div>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://github.com/user-attachments/assets/26056ac5-9fb6-4ff6-bb42-d5e0ba785105">
