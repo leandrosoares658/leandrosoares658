@@ -1,11 +1,10 @@
 ### Hi, I'm Leandro Soares 👋 <br>
 
-🔭 I am studying JavaScript for course IBM JavaScript Backend Developer <br>
+🔭 Programming specialist developing AI models and custom software. <br>
 ⭐ I am Data Scientist at University Cruzeiro do Sul <br>
-🧑‍🎓 I am studying Systems Engineering at University State of Montes Claros - UNIMONTES <br>
+🧑‍🎓 I am Systems Engineering at University State of Montes Claros - UNIMONTES <br>
 📚 I have a technical degree computing at Federal Institute of Northern Minas Gerais - IFNMG <br>
-🚀 Developer Backend for 1 year <br>
-💡 Current I am mid level automation analyst at Novo Nordisk, working on the implementation of the projects that has impacted the lives of thousands of people. <br>
+💡 Current I am Automation Analyst at Novo Nordisk, working on the implementation of the projects that has impacted the lives of thousands of people. <br>
 
 
 <div>
@@ -15,12 +14,11 @@
 <br>
 ### Olá, eu sou o Leandro Soares 👋 <br>
 
-🔭 Estudando JavaScript pelo curso IBM JavaScript Backend Developer <br>
+🔭 Especialista em programação, desenvolvendo modelos de IA e softwares personalizados <br>
 ⭐ Cientista de Dados pela Universidade Cruzeiro do Sul <br>
-🧑‍🎓 Cursando Engenharia de Sistemas pela Universidade Estadual de Montes Claros - UNIMONTES <br>
+🧑‍🎓 Engenharia de Sistemas pela Universidade Estadual de Montes Claros - UNIMONTES <br>
 📚 Formado em ensino técnico de Informática pelo Instituto Federal do Norte de Minas Gerais - IFNMG <br>
-🚀 Desenvolvedor Backend por 1 ano <br>
-💡 Atualmente analista de automação pleno na Novo Nordisk, atuando na área de implementação de projetos que impactam a vida de milhões de pessoas <br>
+💡 Atualmente Analista de Automação na Novo Nordisk, atuando na área de implementação de projetos que impactam a vida de milhões de pessoas <br>
 
 <div>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://github.com/user-attachments/assets/5562bc15-d6a9-4e3e-9dc4-ae6d4778f996">
